@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="InventoriKue">
+    <output-path>$PROJECT_DIR$/out/artifacts/InventoriKue</output-path>
+    <root id="root">
+      <element id="archive" name="InventoriKue.jar">
+        <element id="module-output" name="InventoriKue" />
+      </element>
+    </root>
+  </artifact>
+</component>
